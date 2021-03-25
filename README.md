@@ -2,6 +2,11 @@
 本週作業目的是讓大家學會架設 MySQL 資料庫伺服器，並且使用 SQL 語句對資料庫進行新增、讀取、修改、刪除等動作。
 
 
+![要求一、MySQL創建以及連線成功](https://user-images.githubusercontent.com/72090089/112459376-b966ce80-8d98-11eb-8841-e685dfbd39fc.PNG)
+![要求一：安裝 MySQL 伺服器](https://user-images.githubusercontent.com/72090089/112459381-ba97fb80-8d98-11eb-9ee5-a96e7982d2c1.PNG)
+![要求二：建立資料庫和資料表](https://user-images.githubusercontent.com/72090089/112459382-bb309200-8d98-11eb-9385-e89c45afb1d8.PNG)
+
+
 使用 INSERT 指令新增一筆資料到 user 資料表中，這筆資料的 username 和 password 欄位必須是 ply。接著繼續新增至少 4 筆隨意的資料。 
 
 SELECT * FROM website.user;
